@@ -1,0 +1,5 @@
+Essai pour voir si j'ai bien tout compris :
+	on fait touch pour ajouter un fichier,
+		git log pour voir les commit,
+		git push pour envoyer sur github,
+		git pull pour récupérer sur git,
