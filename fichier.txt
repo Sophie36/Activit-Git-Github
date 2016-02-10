@@ -3,3 +3,6 @@ Essai pour voir si j'ai bien tout compris :
 		git log pour voir les commit,
 		git push pour envoyer sur github,
 		git pull pour récupérer sur git,
+		git add et git commit 
+		avec enfin git status
+	Modification faite depuis Github pour voir si j'arrive à m'en sortir
